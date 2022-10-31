@@ -8,6 +8,10 @@
 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash Logo" width="40" height="40"/> <img src="https://github.com/actions/starter-workflows/blob/main/icons/powershell.svg" alt="PowerShell Logo" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJavaScript Logo" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="PhpMyAdmin Logo" width="40" height="40"/> <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="MariaDB Logo" width="40" height="40"/> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 
-
 ---
     
+* My primary coding language: Python
+* Earned Gold badge & 5 star at HackerRank in Python programming.
+* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
+* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
+* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
