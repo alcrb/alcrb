@@ -23,5 +23,11 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{alcrb}/count.svg)
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<alcrb>&hide=java,html,css&theme=radical)](https://github.com/alcrb/github-readme-stats)
+
 
 
