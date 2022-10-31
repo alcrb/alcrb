@@ -13,6 +13,12 @@
 * Passionate for learning & exploring new Tech.
 * Ethical Hacking Enthusiast.
 
+---
+
+📘 Latest Blog Articles
+
+---
+
  <details>
 <summary>📊 Github Stats</summary>
 
