@@ -4,7 +4,7 @@
 
 ----
 
-🧰 Toolbox
+My Tech Toolbox 🧰 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> 
 
