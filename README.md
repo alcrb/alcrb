@@ -21,3 +21,5 @@
 
 </details>
 
+![Visitor Count](https://profile-counter.glitch.me/{alcrb}/count.svg)
+
