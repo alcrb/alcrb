@@ -13,11 +13,6 @@
 * Passionate for learning & exploring new Tech.
 * Ethical Hacking Enthusiast.
 
----
-
-📘 Latest Blog Articles
-
----
 
  <details>
 <summary>📊 Github Stats</summary>
@@ -27,4 +22,10 @@
 </details>
 
 ![Visitor Count](https://profile-counter.glitch.me/{alcrb}/count.svg)
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_GitHub_username>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
