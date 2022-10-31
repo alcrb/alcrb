@@ -11,7 +11,6 @@
 ---
     
 * My primary coding language: Python
-* Earned Gold badge & 5 star at HackerRank in Python programming.
-* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
-* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
-* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
+* Passionate for learning & exploring new Tech.
+* Ethical Hacking Enthusiast.
+
