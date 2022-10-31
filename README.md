@@ -23,7 +23,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{alcrb}/count.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<alcrb>&hide=java,html,css&theme=radical)](https://github.com/alcrb/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alcrb&hide=java,html,css&theme=radical)](https://github.com/alcrb/github-readme-stats)
 
 
 
