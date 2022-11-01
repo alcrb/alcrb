@@ -9,10 +9,19 @@
 
 ---
     
-* My primary coding language: Python.
+* My primary coding language: Powershell.
+
 * Passionate for learning & exploring new Tech.
+
 * Ethical Hacking Enthusiast.
+
 * PC Optimization Master.
+
+* I’m currently working on **improving my knowledge of Python.**
+
+* I’m currently learning **Python**
+
+* How to reach me **@gmail.com**
 
 
  <details>
