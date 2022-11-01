@@ -28,7 +28,7 @@
 
 * PC Optimization **Master**.
 
-* How to reach me **@gmail.com**
+* How to reach me **@protonmail.com**
 
 <p align="center">
  <details>
