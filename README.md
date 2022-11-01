@@ -39,6 +39,7 @@
 </details>
 
 <p align="center">
-![Visitor Count](https://profile-counter.glitch.me/{alcrb}/count.svg) </p>
+   
+![Visitor Count](https://profile-counter.glitch.me/{alcrb}/count.svg)
 
-
+</p>
