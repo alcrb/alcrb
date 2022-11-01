@@ -30,14 +30,15 @@
 
 * How to reach me **@gmail.com**
 
-
+<p align="center">
  <details>
-<summary>📊 Github Stats</summary>
+<summary>📊 Github Stats</summary> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alcrb&show_icons=true&theme=gotham" alt="A C | Stats" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcrb&hide=java,html,css&theme=gotham")
 </details>
 
-![Visitor Count](https://profile-counter.glitch.me/{alcrb}/count.svg)
+<p align="center">
+![Visitor Count](https://profile-counter.glitch.me/{alcrb}/count.svg) </p>
 
 
