@@ -9,10 +9,10 @@
 
 ---
     
-* My primary coding language: Python
+* My primary coding language: Python.
 * Passionate for learning & exploring new Tech.
 * Ethical Hacking Enthusiast.
-* PC Optimization Master
+* PC Optimization Master.
 
 
  <details>
