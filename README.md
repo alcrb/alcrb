@@ -9,13 +9,13 @@
 
 ---
     
-* My primary coding language: Powershell.
+* My primary coding language: **Powershell**.
 
-* Passionate for learning & exploring new Tech.
+* Passionate for **learning & exploring new Tech**.
 
-* Ethical Hacking Enthusiast.
+* **Ethical Hacking Enthusiast**.
 
-* PC Optimization Master.
+* **PC Optimization Master**.
 
 * I’m currently working on **improving my knowledge of Python.**
 
