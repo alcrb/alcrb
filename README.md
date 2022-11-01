@@ -38,6 +38,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcrb&hide=java,html,css&theme=gotham")
 </details>
 
-<p align="center"> ![Visitor Count](https://profile-counter.glitch.me/{alcrb}/count.svg) </p>
+![Visitor Count](https://profile-counter.glitch.me/{alcrb}/count.svg) </p>
 
-</p>
+
