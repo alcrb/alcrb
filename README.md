@@ -12,6 +12,7 @@
 * My primary coding language: Python
 * Passionate for learning & exploring new Tech.
 * Ethical Hacking Enthusiast.
+* PC Optimization Master
 
 
  <details>
