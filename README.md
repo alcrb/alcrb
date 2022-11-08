@@ -9,7 +9,7 @@
 
 <h3 align="center"> My Tech Toolbox 🧰 <br></h3>
 <p align="center">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash Logo" width="40" height="40"/> <img src="https://github.com/actions/starter-workflows/blob/main/icons/powershell.svg" alt="PowerShell Logo" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/citrix/citrix-ar21.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="Apache" width="40" height="40"/> <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="MariaDB Logo" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Php Logo" width="40" height="40"/> </p>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash Logo" width="40" height="40"/> <img src="https://github.com/actions/starter-workflows/blob/main/icons/powershell.svg" alt="PowerShell Logo" width="40" height="40"/> </p>
 
 
 
