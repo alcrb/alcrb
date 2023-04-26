@@ -9,7 +9,7 @@
 
 <h3 align="center"> My Tech Toolbox 🧰 <br></h3>
 <p align="center">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash Logo" width="40" height="40"/> <img src="https://github.com/actions/starter-workflows/blob/main/icons/powershell.svg" alt="PowerShell Logo" width="40" height="40"/> </p>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash Logo" width="40" height="40"/> <img src="https://github.com/actions/starter-workflows/blob/main/icons/powershell.svg" alt="PowerShell Logo" width="40" height="40"/> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-icon.svg" alt="PowerShell Logo" width="40" height="40"/></p>
 
 
 
