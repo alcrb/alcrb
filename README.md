@@ -16,9 +16,9 @@
 
 ---
 
-* I’m currently working on **improving my knowledge of Python.**
+* I’m currently working on **improving my knowledge of NodeJS.**
 
-* I’m currently learning **Python** 
+* I’m currently learning **NodeJS** 
    
 * My primary coding language: **Powershell**.
 
