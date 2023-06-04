@@ -24,11 +24,11 @@
 
 * Passionate for **learning & exploring new Tech**.
 
-* Ethical Hacking **Enthusiast**. Top 1% TryHackMe .
+* Ethical Hacking **Enthusiast. Top 1% TryHackMe.**
 
 * PC Optimization **Master**.
 
-* How to reach me **@protonmail.com**
+* How to reach me **@pm.me**
 
 <p align="center">
  <details>
