@@ -12,9 +12,11 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash Logo" width="40" height="40"/> <img src="https://github.com/actions/starter-workflows/blob/main/icons/powershell.svg" alt="PowerShell Logo" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs Logo" width="40" height="40"/></p>
 
 
-☁️ Clouds
+<h3>☁️ Clouds </h3>
 
 <img src="https://camo.githubusercontent.com/9281daa5684971fd3325661e3dd5fea86b21a902e3741a556fb636fbf0e2f3d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" alt="aws" width="73" height="28"/> <img src="https://camo.githubusercontent.com/0ff95ac28f85bda17f062b6babaa5f81dcfb540ad9239a9f248057ede13027fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465" alt="gcloud" width="142" height="28"/>
+
+<h3>➰ Languages </h3>
 
 ---
 
