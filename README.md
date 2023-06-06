@@ -15,7 +15,7 @@
 
 * Passionate for **learning & exploring new Tech**.
 
-* OSINT & Ethical Hacking Enthusiast. **Top 1% TryHackMe.**
+* OSINT & Ethical Hacking Enthusiast. Top 1% **TryHackMe.**
 
 * PC Optimization **Master**.
 
