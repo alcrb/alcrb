@@ -7,7 +7,7 @@
 
 ----
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 
 * I’m currently working on **improving my knowledge of NodeJS.**
 
