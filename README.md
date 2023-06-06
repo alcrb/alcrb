@@ -5,9 +5,9 @@
 <img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> 
 <img height="30"src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </p>
 
---
+----
 
-About Me
+<h1>About Me</h1>
 
 * I’m currently working on **improving my knowledge of NodeJS.**
 
