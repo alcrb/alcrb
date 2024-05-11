@@ -9,13 +9,11 @@
 
 * I’m currently working on **improving my knowledge of JavaScript.**
 
-* I’m currently learning **JavaScript** 
-   
 * My primary coding language: **Python**.
 
 * Passionate for **learning & exploring new Tech**.
 
-* OSINT & Ethical Hacking Enthusiast. Top 1% **TryHackMe.**
+* DevOps,OSINT & Ethical Hacking Enthusiast. Top 1% **TryHackMe.**
 
 * PC Optimization **Master**.
 
