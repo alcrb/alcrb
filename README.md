@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I'm a System Network Administrator!<br></h3>
+<h3 align="center">I'm a System Network Administrator Student!<br></h3>
 
 <p align="center">
  <img height="30" src="https://camo.githubusercontent.com/9514e22fade05d32bd42fb74dca5547544c6c467636f5a77ff4b8a9312c5eca5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f746f6e4d61696c2d3842383943433f7374796c653d666f722d7468652d6261646765266c6f676f3d70726f746f6e6d61696c266c6f676f436f6c6f723d7768697465" /> 
