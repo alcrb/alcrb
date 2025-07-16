@@ -2,7 +2,7 @@
 <h3 align="center">I'm a System Network Administrator Student! <br></h3>
 
 <p align="center">
- <img height="30" src="https://camo.githubusercontent.com/9514e22fade05d32bd42fb74dca5547544c6c467636f5a77ff4b8a9312c5eca5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f746f6e4d61696c2d3842383943433f7374796c653d666f722d7468652d6261646765266c6f676f3d70726f746f6e6d61696c266c6f676f436f6c6f723d7768697465" /> 
+ <img height="30" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> 
 <img height="30"src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </p>
 
 <h2>About Me</h2>
