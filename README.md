@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I'm a System Network Administrator Student! <br></h3>
+<h3 align="center">I'm a Systems Network Engineer Student! <br></h3>
 
 <p align="center">
  <img height="30" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> 
