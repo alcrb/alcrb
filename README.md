@@ -21,7 +21,7 @@
 
 <h2>☁️ Clouds </h2>
 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" width="73" height="28"/> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcloud" width="142" height="28"/> <img src="https://camo.githubusercontent.com/5fbc1db7ec0d2373317159b53a8ef4943aff0a3bc983b160a26a045912286f32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7261636c652d4638303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465" alt="oracle" width="95" height="28"/> <img src="https://camo.githubusercontent.com/7d314c66915dbeb6d5ab978abac5efc6368cef20c5d05a6abe2b4ece1b4ef774/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f76682d2532333132334636442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f7668266c6f676f436f6c6f723d23313233463644" alt="ovh" width="71" height="28"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" width="73" height="28"/> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcloud" width="142" height="28"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" width="95" height="28"/> <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D" alt="ovh" width="71" height="28"/>
 
 
 <h2>➰ Languages </h2>
