@@ -7,7 +7,7 @@
 
 <h2>About Me</h2>
 
-* I’m currently working on **improving my knowledge of JavaScript.**
+* I’m currently working on **improving my knowledge of C#.**
 
 * My primary coding language: **Python**.
 
